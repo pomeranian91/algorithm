@@ -1,5 +1,6 @@
 # 🎈progremers_cordingtest
 
+Javascript  
 알고리즘 공부를 하며 메모하기 위한 공간입니다.  
 https://velog.io/@pomeranian91/series/Algorithm
 

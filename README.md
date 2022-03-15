@@ -17,4 +17,4 @@ https://velog.io/@pomeranian91/series/Algorithm
 9.[제일 작은 수 제거하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/evenOdd.js)  
 10.[수박수박수박수!?!](https://github.com/pomeranian91/progremers_cordingtest/blob/main/waterMelon.js)  
 11.[정수 내림차순으로 배치하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/numberArray.js)  
-12.
+12.[이상한 문자 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/weirdWord.js)

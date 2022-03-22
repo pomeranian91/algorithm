@@ -18,4 +18,5 @@ https://velog.io/@pomeranian91/series/Algorithm
 10.[수박수박수박수!?!](https://github.com/pomeranian91/progremers_cordingtest/blob/main/waterMelon.js)  
 11.[정수 내림차순으로 배치하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/numberArray.js)  
 12.[이상한 문자 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/weirdWord.js)  
-13.[약수의 합](https://github.com/pomeranian91/progremers_cordingtest/blob/main/measureSum.js)
+13.[약수의 합](https://github.com/pomeranian91/progremers_cordingtest/blob/main/measureSum.js)  
+14.[문자열을 정수로 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/numberChange.js)

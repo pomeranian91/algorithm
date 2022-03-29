@@ -20,5 +20,5 @@ https://velog.io/@pomeranian91/series/Algorithm
 12.[이상한 문자 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/weirdWord.js)  
 13.[약수의 합](https://github.com/pomeranian91/progremers_cordingtest/blob/main/measureSum.js)  
 14.[문자열을 정수로 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/numberChange.js)  
-15.[문자열 내림차순으로 배치하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/sortReverse.js)   
-16.[문자열 내 p와 y의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/sortReverse.js)   
+15.[문자열 내림차순으로 배치하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/sortReverse.js)  
+16.[문자열 내 p와 y의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/countPnY.js)

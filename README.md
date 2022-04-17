@@ -25,4 +25,5 @@ https://velog.io/@pomeranian91/series/Algorithm
 17.[문자열 다루기 기본](https://github.com/pomeranian91/progremers_cordingtest/blob/main/strCare.js)  
 18.[두 정수 사이의 합](https://github.com/pomeranian91/progremers_cordingtest/blob/main/sumNumberBetween.js)  
 19.[가운데 글자 가져오기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/betweenStr.js)  
-20.[정수제곱근 판별](https://github.com/pomeranian91/progremers_cordingtest/blob/main/intSqrt.js)
+20.[정수제곱근 판별](https://github.com/pomeranian91/progremers_cordingtest/blob/main/intSqrt.js)  
+21.[같은 숫자는 싫어](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dontLikeSameNum.js)

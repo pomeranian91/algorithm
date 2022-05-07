@@ -33,3 +33,4 @@ https://velog.io/@pomeranian91/series/Algorithm
 25.[2016년](https://github.com/pomeranian91/progremers_cordingtest/blob/main/2016.js)  
 26.[문자열 내 마음대로 정렬하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/strangeStrings.js)  
 27.[K번째수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/KNumber.js)
+28.

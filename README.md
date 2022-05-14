@@ -33,4 +33,6 @@ https://velog.io/@pomeranian91/series/Algorithm
 25.[2016년](https://github.com/pomeranian91/progremers_cordingtest/blob/main/2016.js)  
 26.[문자열 내 마음대로 정렬하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/strangeStrings.js)  
 27.[K번째수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/KNumber.js)  
-28.[완주하지 못 한 선수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/completionMaraton.js.js)
+28.[완주하지 못 한 선수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/completionMaraton.js)  
+29.[모의고사](https://github.com/pomeranian91/progremers_cordingtest/blob/main/completionMaraton.js.js)  
+30.[로또의 최고 순위와 최저 순위](https://github.com/pomeranian91/progremers_cordingtest/blob/main/lottoMaxMin.js)

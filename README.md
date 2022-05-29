@@ -38,4 +38,5 @@ https://velog.io/@pomeranian91/series/Algorithm
 30.[로또의 최고 순위와 최저 순위](https://github.com/pomeranian91/progremers_cordingtest/blob/main/lottoMaxMin.js)  
 31.[내적](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dotProduct.js)  
 32.[두 개 뽑아 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/selectTwo.js)  
-33.[다트게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dartGame.js)
+33.[다트게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dartGame.js)  
+34.[소수 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/MakeZeroNum.js)

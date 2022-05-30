@@ -39,4 +39,5 @@ https://velog.io/@pomeranian91/series/Algorithm
 31.[내적](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dotProduct.js)  
 32.[두 개 뽑아 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/selectTwo.js)  
 33.[다트게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dartGame.js)  
-34.[소수 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/MakeZeroNum.js)
+34.[소수 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/MakeZeroNum.js)  
+35.[체육복](https://github.com/pomeranian91/progremers_cordingtest/blob/main/weightCloth.js)

@@ -41,4 +41,4 @@ https://velog.io/@pomeranian91/series/Algorithm
 33.[다트게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/dartGame.js)  
 34.[소수 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/MakeZeroNum.js)  
 35.[체육복](https://github.com/pomeranian91/progremers_cordingtest/blob/main/weightCloth.js)  
-36.
+36.[부족한 금액 계산](https://github.com/pomeranian91/progremers_cordingtest/blob/main/failCash.js)

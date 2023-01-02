@@ -3,6 +3,11 @@
 Javascript  
 프로그래머스 알고리즘 테스트 메모
 
+### 🚕Level 0
+
+1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
+2.[배열 원소의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/arrayLength.js)
+
 ### 📕Level 1
 
 1.[직사각형 별 그리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/writestars.js)  

@@ -8,7 +8,9 @@ Javascript
 1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
 2.[배열 원소의 길이](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/arrayLength.js)  
 3.[중복된 문자열 제거](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/removeDuplicateString.js)  
-4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)
+4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
+5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  
+6[369게임]((https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/game369.js)
 
 ### 📕Level 1
 

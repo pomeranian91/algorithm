@@ -11,7 +11,9 @@ Javascript
 4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
 5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  
 6.[369게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/game369.js)  
-7.[암호해독](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/passwordCrack.js)
+7.[암호해독](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/passwordCrack.js)  
+8.[인덱스 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/replaceIndex.js)  
+9.[한 번만 등장한 문자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/indexOfSearch.js)
 
 ### 📕Level 1
 

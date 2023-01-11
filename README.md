@@ -15,7 +15,8 @@ Javascript
 8.[인덱스 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/replaceIndex.js)  
 9.[한 번만 등장한 문자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/indexOfSearch.js)  
 10.[약수 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/factors.js)  
-11.[편지](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/letter.js)
+11.[편지](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/letter.js)  
+12.[가장 큰 수 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/maxIndex.js)
 
 ### 📕Level 1
 

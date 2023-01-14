@@ -18,7 +18,8 @@ Javascript
 11.[편지](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/letter.js)  
 12.[가장 큰 수 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/maxIndex.js)  
 13.[문자열 계산하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/문자열_계산하기.js)  
-14.[배열의 유사도](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/배열의_유사도.js)
+14.[배열의 유사도](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/배열의_유사도.js)  
+15.[숫자 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숫자_찾기.js)
 
 ### 📕Level 1
 

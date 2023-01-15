@@ -59,4 +59,8 @@ Javascript
 34.[소수 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/MakeZeroNum.js)  
 35.[체육복](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/weightCloth.js)  
 36.[부족한 금액 계산](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
-37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js) 38.[실패율]()
+37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)
+
+### 📕Level 2
+
+1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)

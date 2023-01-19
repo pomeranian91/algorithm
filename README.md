@@ -22,7 +22,8 @@ Javascript
 15.[숫자 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숫자_찾기.js)  
 16.[n의 배수 고르기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/n의_배수_고르기.js)  
 17.[자릿수 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/자릿수_더하기.js)  
-18.[제곱수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)
+18.[제곱수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)  
+19.[세균증식](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/세균_증식.js)
 
 ### 📕Level 1
 

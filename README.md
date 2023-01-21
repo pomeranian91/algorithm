@@ -68,4 +68,5 @@ Javascript
 
 ### 📕Level 2
 
-1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)
+1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)  
+2.[숫자의 표현](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/숫자의_표현.js)

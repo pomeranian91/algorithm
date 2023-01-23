@@ -24,7 +24,8 @@ Javascript
 17.[자릿수 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/자릿수_더하기.js)  
 18.[제곱수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)  
 19.[세균증식](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/세균_증식.js)  
-20.[7의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/7의_개수.js)
+20.[7의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/7의_개수.js)  
+20.[직사각형 넓이 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/직사각형_넓이_구하기.js)
 
 ### 📕Level 1
 

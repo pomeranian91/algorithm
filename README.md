@@ -1,9 +1,9 @@
 # 🎈progremers_cordingtest
 
 Javascript  
-프로그래머스 알고리즘 테스트 메모
+프로그래머스 알고리즘 메모
 
-### 🚕Level 0
+# 🚕Level 0
 
 1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
 2.[배열 원소의 길이](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/arrayLength.js)  
@@ -29,7 +29,7 @@ Javascript
 21.[캐릭터의 좌표](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/캐릭터의_좌표.js)  
 22.[최댓값 만들기(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/최댓값_만들기(2).js>)
 
-### 📕Level 1
+# 📕Level 1
 
 1.[직사각형 별 그리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/writestars.js)  
 2.[x만큼 간격이 있는 n개의 숫자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/addArray.js)  
@@ -69,7 +69,7 @@ Javascript
 36.[부족한 금액 계산](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)
 
-### 📕Level 2
+# 📕Level 2
 
 1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)  
 2.[숫자의 표현](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/숫자의_표현.js)

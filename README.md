@@ -32,7 +32,8 @@ Javascript
 24.[숨어있는 숫자의 덧셈(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숨어있는_숫자의_덧셈_(2).js>)  
 25.[안전지대](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/안전지대.js)
 26[삼각형의 완성조건(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/삼각형의_완성조건(2).js>)  
-27.[외계어 사전](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/외계어_사전.js)
+27.[외계어 사전](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/외계어_사전.js)  
+28.[저주의 숫자 3](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/저주의_숫자_3.js)
 
 # 📕Level 1
 

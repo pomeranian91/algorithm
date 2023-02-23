@@ -3,6 +3,8 @@
 Javascript  
 프로그래머스 알고리즘 메모
 
+---
+
 # 🚕Level 0
 
 1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
@@ -36,6 +38,8 @@ Javascript
 28.[저주의 숫자 3](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/저주의_숫자_3.js)  
 29.[겹치는 선분의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/겹치는_선분의_길이.js)  
 30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)
+
+---
 
 # 📕Level 1
 
@@ -76,6 +80,8 @@ Javascript
 35.[체육복](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/weightCloth.js)  
 36.[부족한 금액 계산](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)
+
+---
 
 # 📕Level 2
 

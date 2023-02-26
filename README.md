@@ -37,7 +37,8 @@ Javascript
 27.[외계어 사전](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/외계어_사전.js)  
 28.[저주의 숫자 3](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/저주의_숫자_3.js)  
 29.[겹치는 선분의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/겹치는_선분의_길이.js)  
-30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)
+30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)  
+31.[특이한 정렬](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/특이한_정렬.js)
 
 ---
 

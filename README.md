@@ -40,7 +40,8 @@ Javascript
 30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)  
 31.[특이한 정렬](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/특이한_정렬.js)  
 32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)  
-32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)
+32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)  
+33.[치킨 쿠폰](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)
 
 ---
 

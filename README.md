@@ -1,18 +1,16 @@
 # 🎈progremers_cordingtest
 
-Javascript  
-프로그래머스 알고리즘 메모
+## Javascript
 
----
+## 프로그래머스 알고리즘 메모
 
 ### 🌱 Level 0
 
-| 번호 | 문제                                                                            | 풀이                                                                                              |
-| ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js) |
+| 번호 | 문제                                                                                 | 풀이                                                                                                           |
+| ---- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)      | [컨트롤\_제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)            |
+| 2    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열*원소의*길이](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js) |
 
-1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
-2.[배열 원소의 길이](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/arrayLength.js)  
 3.[중복된 문자열 제거](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/removeDuplicateString.js)  
 4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
 5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  

@@ -5,7 +5,11 @@ Javascript
 
 ---
 
-# 🚕Level 0
+### 🌱 Level 0
+
+| 번호 | 문제                                                                            | 풀이                                                                                              |
+| ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js) |
 
 1.[컨트롤제트](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)  
 2.[배열 원소의 길이](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/arrayLength.js)  

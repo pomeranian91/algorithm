@@ -6,45 +6,47 @@
 
 ### 🌱 Level 0
 
-| 번호 | 문제                                                                                 | 풀이                                                                                                              |
-| ---- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)      | [컨트롤 제트.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)             |
-| 2    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js) |
+| 번호 | 문제                                                                                   | 풀이                                                                                                                      |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        | [컨트롤 제트.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)                     |
+| 2    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
+| 3    | [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [중복된 문자열 제거.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/removeDuplicateString.js) |
+| 4    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
+| 5    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
 
-3.[중복된 문자열 제거](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/removeDuplicateString.js)  
-4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
-5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  
-6.[369게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/game369.js)  
-7.[암호해독](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/passwordCrack.js)  
-8.[인덱스 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/replaceIndex.js)  
-9.[한 번만 등장한 문자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/indexOfSearch.js)  
-10.[약수 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/factors.js)  
-11.[편지](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/letter.js)  
-12.[가장 큰 수 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/maxIndex.js)  
-13.[문자열 계산하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/문자열_계산하기.js)  
-14.[배열의 유사도](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/배열의_유사도.js)  
-15.[숫자 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숫자_찾기.js)  
-16.[n의 배수 고르기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/n의_배수_고르기.js)  
-17.[자릿수 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/자릿수_더하기.js)  
-18.[제곱수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)  
-19.[세균증식](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/세균_증식.js)  
-20.[7의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/7의_개수.js)  
-20.[직사각형 넓이 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/직사각형_넓이_구하기.js)  
-21.[캐릭터의 좌표](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/캐릭터의_좌표.js)  
-22.[최댓값 만들기(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/최댓값_만들기(2).js>)  
-23.[다항식 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/다항식_더하기.js)  
-24.[숨어있는 숫자의 덧셈(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숨어있는_숫자의_덧셈_(2).js>)  
-25.[안전지대](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/안전지대.js)
-26[삼각형의 완성조건(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/삼각형의_완성조건(2).js>)  
-27.[외계어 사전](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/외계어_사전.js)  
-28.[저주의 숫자 3](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/저주의_숫자_3.js)  
-29.[겹치는 선분의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/겹치는_선분의_길이.js)  
-30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)  
-31.[특이한 정렬](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/특이한_정렬.js)  
-32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)  
-32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)  
-33.[치킨 쿠폰](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)
-| 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
+3.  4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
+    5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  
+    6.[369게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/game369.js)  
+    7.[암호해독](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/passwordCrack.js)  
+    8.[인덱스 바꾸기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/replaceIndex.js)  
+    9.[한 번만 등장한 문자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/indexOfSearch.js)  
+    10.[약수 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/factors.js)  
+    11.[편지](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/letter.js)  
+    12.[가장 큰 수 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/maxIndex.js)  
+    13.[문자열 계산하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/문자열_계산하기.js)  
+    14.[배열의 유사도](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/배열의_유사도.js)  
+    15.[숫자 찾기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숫자_찾기.js)  
+    16.[n의 배수 고르기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/n의_배수_고르기.js)  
+    17.[자릿수 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/자릿수_더하기.js)  
+    18.[제곱수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)  
+    19.[세균증식](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/세균_증식.js)  
+    20.[7의 개수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/7의_개수.js)  
+    20.[직사각형 넓이 구하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/직사각형_넓이_구하기.js)  
+    21.[캐릭터의 좌표](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/캐릭터의_좌표.js)  
+    22.[최댓값 만들기(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/최댓값_만들기(2).js>)  
+    23.[다항식 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/다항식_더하기.js)  
+    24.[숨어있는 숫자의 덧셈(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/숨어있는_숫자의_덧셈_(2).js>)  
+    25.[안전지대](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/안전지대.js)
+    26[삼각형의 완성조건(2)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/삼각형의_완성조건(2).js>)  
+    27.[외계어 사전](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/외계어_사전.js)  
+    28.[저주의 숫자 3](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/저주의_숫자_3.js)  
+    29.[겹치는 선분의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/겹치는_선분의_길이.js)  
+    30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)  
+    31.[특이한 정렬](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/특이한_정렬.js)  
+    32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)  
+    32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)  
+    33.[치킨 쿠폰](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)
+    | 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
 
 ---
 

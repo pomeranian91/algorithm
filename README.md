@@ -6,13 +6,13 @@
 
 ### 🌱 Level 0
 
-| 번호 | 문제                                                                                   | 풀이                                                                                                                      |
-| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        | [컨트롤 제트.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)                     |
-| 2    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
-| 3    | [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [중복된 문자열 제거.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/removeDuplicateString.js) |
-| 4    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
-| 5    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)         |
+| 번호 | 문제                                                                                   | 풀이                                                                                                                   |
+| ---- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        | [컨트롤 제트.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/controlZ.js)                  |
+| 2    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)      |
+| 3    | [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [중복된 문자열 제거.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/중복된_문자열_제거.js) |
+| 4    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)      |
+| 5    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)   | [배열 원소의 길이.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/배열_원소의_길이.js)      |
 
 3.  4.[삼각형의 완성조건](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/triangleCondition1.js)  
     5.[가까운 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/nearNum.js)  
@@ -46,7 +46,8 @@
     32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)  
     32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)  
     33.[치킨 쿠폰](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)
-    | 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
+    | 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
+    | 35 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [문자열 밀기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/문자열_밀기기.js) |
 
 ---
 

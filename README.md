@@ -48,7 +48,8 @@
      33.[치킨 쿠폰](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)
     | 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
     | 35 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [문자열 밀기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/문자열_밀기기.js) |
-    | 36 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [다음에 올 숫자.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/다음에_올_숫자.js)
+    | 36 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [다음에 올 숫자.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/다음에_올_숫자.js) |  
+    | 37 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [연속된 수의 합.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/연속된_수의_합.js) |
 
 ---
 

@@ -13,6 +13,12 @@
 | 3    | [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [중복된 문자열 제거.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/중복된_문자열_제거.js)       |
 | 4    | [삼각형의 완성조건](https://school.programmers.co.kr/learn/courses/30/lessons/120889)  | [삼각형의 완성조건(1).js](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/삼각형의_완성조건(1).js>) |
 | 5    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 6    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 7    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 8    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 9    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 10   | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
+| 11   | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)          | [가까운 수.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/가까운_수.js)                         |
 
 6.[369게임](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/game369.js)  
  7.[암호해독](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/passwordCrack.js)  

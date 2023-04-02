@@ -39,7 +39,7 @@
 | 29   | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [제곱수 판별하기.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)             |
 | 30   | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [제곱수 판별하기.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)             |
 | 31   | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [제곱수 판별하기.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)             |
-| 32   | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [제곱수 판별하기.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/제곱수_판별하기.js)             |
+| 32   | [로그인성공](https://school.programmers.co.kr/learn/courses/30/lessons/120883)           | [로그인성공.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)                       |
 | 33   | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120909)            | [치킨 쿠폰.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/치킨_쿠폰.js)                         |
 
 21.[캐릭터의 좌표](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/캐릭터의_좌표.js)  
@@ -53,8 +53,7 @@
  29.[겹치는 선분의 길이](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/겹치는_선분의_길이.js)  
  30.[유한소수 판별하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/유한소수_판별하기.js)  
  31.[특이한 정렬](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/특이한_정렬.js)  
- 32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)  
- 32.[로그인성공](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/로그인성공.js)
+ 32.[옹알이(1)](<https://github.com/pomeranian91/progremers_cordingtest/blob/main/level0/옹알이(1).js>)
 
 | 34 | [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B만들기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/A로_B만들기.js) |
 | 35 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [문자열 밀기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/문자열_밀기기.js) |
@@ -104,6 +103,7 @@
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)  
 39.[등수 매기기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/등수_매기기.js)
+| 40 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/추억_점수.js) |
 
 ---
 

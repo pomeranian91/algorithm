@@ -1,8 +1,8 @@
-# 🎈progremers_cordingtest
+#
 
 ## Javascript
 
-## 프로그래머스 알고리즘 메모
+## 🎈progremers_cordingtest(프로그래머스 알고리즘 메모)
 
 ### 🌱 Level 0
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 📕Level 1
+### 📕Level 1
 
 1.[직사각형 별 그리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/writestars.js)  
 2.[x만큼 간격이 있는 n개의 숫자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/addArray.js)  
@@ -91,13 +91,13 @@
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)  
 39.[등수 매기기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/등수_매기기.js)
-| 39 | [등수 매기기]() | [등수 매기기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/등수_매기기.js) |
-| 40 | [추억 점수]() | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
+| 39 | [등수 매기기](x) | [등수 매기기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/등수_매기기.js) |
+| 40 | [추억 점수](x) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
 
 ---
 
-# 📕Level 2
+### 📕Level 2
 
 1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)  
 2.[숫자의 표현](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/숫자의_표현.js)

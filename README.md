@@ -91,8 +91,8 @@
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)  
 39.[등수 매기기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/등수_매기기.js)
-| 39 | [등수 매기기](x) | [등수 매기기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/등수_매기기.js) |
-| 40 | [추억 점수](x) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
+| 39 | [등수 매기기](https://school.programmers.co.kr/) | [등수 매기기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/등수_매기기.js) |
+| 40 | [추억 점수](https://school.programmers.co.kr/) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
 
 ---

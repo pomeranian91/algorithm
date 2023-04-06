@@ -105,8 +105,8 @@
 
 ### 📕Level 2
 
-| 번호 | 문제 | 풀이 |
-| ---- | ---- | ---- |
-
-1.[JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/JadenCase_문자열_만들기.js)  
-2.[숫자의 표현](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level2/숫자의_표현.js)
+| 번호 | 문제                                                                                       | 풀이                                                                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [JadenCase 문자열 만들기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/JadenCase_문자열_만들기.js) |
+| 2    | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12939)             | [숫자의 표현](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/숫자의_표현.js)                         |
+| 3    | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12924)         | [최댓값과 최솟값](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/최댓값과_최솟값.js)                 |

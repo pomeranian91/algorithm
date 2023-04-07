@@ -95,7 +95,7 @@
 38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)  
 39.[등수 매기기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/등수_매기기.js)
 
-| 39 | [등수 매기기](https://school.programmers.co.kr/) | [특이한 정렬.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/특이한_정렬.js) |
+| 39 | [특이한 정렬](https://school.programmers.co.kr/) | [특이한 정렬.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/특이한_정렬.js) |
 | 40 | [추억 점수](https://school.programmers.co.kr/) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
 | 42 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양 더하기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/음양_더하기.js) |

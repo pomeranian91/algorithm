@@ -52,10 +52,10 @@
 
 ### 📕Level 1
 
-| 번호 | 문제 | 풀이 |
-| ---- | ---- | ---- |
+| 번호 | 문제                                                    | 풀이                                                                                                                            |
+| ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [직사각형 별 그리기](https://school.programmers.co.kr/) | [직사각형*별*그리기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/직사각형_별_그리기.js) |
 
-1.[직사각형 별 그리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/writestars.js)  
 2.[x만큼 간격이 있는 n개의 숫자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/addArray.js)  
 3.[행렬의 덧셈](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/plusRowcols.js)  
 4.[핸드폰 번호 가리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/blindPhoneNumber.js)  
@@ -92,14 +92,15 @@
 35.[체육복](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/weightCloth.js)  
 36.[부족한 금액 계산](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
 37.[실패율](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/failCash.js)  
-38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)  
-39.[등수 매기기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/등수_매기기.js)
+38.[없는 숫자 더하기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/없는_숫자_더하기.js)
 
+| 38 | [등수 매기기](https://school.programmers.co.kr/) | [등수_매기기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/등수 매기기.js) |
 | 39 | [특이한 정렬](https://school.programmers.co.kr/) | [특이한 정렬.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/level0/특이한_정렬.js) |
 | 40 | [추억 점수](https://school.programmers.co.kr/) | [추억 점수.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/추억_점수.js) |
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
 | 42 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양 더하기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/음양_더하기.js) |
-| 43 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/약수의_개수와_덧셈.js) |
+| 43 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/약수의_개수와_덧셈.js) |  
+| 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/최소직사각형.js) |
 
 ---
 

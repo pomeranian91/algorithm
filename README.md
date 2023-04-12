@@ -112,3 +112,4 @@
 | 2    | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12939)             | [숫자의 표현.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/숫자의_표현.js)                         |
 | 3    | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12924)         | [최댓값과 최솟값.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/최댓값과_최솟값.js)                 |
 | 4    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)             | [올바른 괄호.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/올바른_괄호.js)                         |
+| 5    | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [짝지어 제거하기.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/progremers/level2/짝지어_제거하기.js)                 |

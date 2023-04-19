@@ -52,11 +52,11 @@
 
 ### 📕Level 1
 
-| 번호 | 문제                                                    | 풀이                                                                                                                            |
-| ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | [직사각형 별 그리기](https://school.programmers.co.kr/) | [직사각형*별*그리기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/직사각형_별_그리기.js) |
+| 번호 | 문제                                                                                            | 풀이                                                                                                                            |
+| ---- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [직사각형 별 그리기](https://school.programmers.co.kr/)                                         | [직사각형 별 그리기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/직사각형_별_그리기.js) |
+| 2    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/addArray.js)          |
 
-2.[x만큼 간격이 있는 n개의 숫자](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/addArray.js)  
 3.[행렬의 덧셈](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/plusRowcols.js)  
 4.[핸드폰 번호 가리기](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/blindPhoneNumber.js)  
 5.[하샤드 수](https://github.com/pomeranian91/progremers_cordingtest/blob/main/level1/hashyad.js)  
@@ -100,7 +100,8 @@
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
 | 42 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양 더하기.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/음양_더하기.js) |
 | 43 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/약수의_개수와_덧셈.js) |  
-| 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/최소직사각형.js) |
+| 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/최소직사각형.js) |  
+| 45 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/progremers_cordingtst/blob/main/progremers/level/숫자_문자열과_영단어.js) |
 
 ---
 

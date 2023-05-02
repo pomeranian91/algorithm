@@ -62,6 +62,22 @@
 | ---- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1    | [직사각형 별 그리기](https://school.programmers.co.kr/)                                         | [직사각형 별 그리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/직사각형_별_그리기.js)  |
 | 2    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 3    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 4    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 5    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 6    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 7    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 8    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 9    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 10   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 11   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 12   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 13   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 14   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 15   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 16   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 17   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 18   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
 
 3.[행렬의 덧셈](https://github.com/pomeranian91/algorithm/blob/main/level1/plusRowcols.js)  
 4.[핸드폰 번호 가리기](https://github.com/pomeranian91/algorithm/blob/main/level1/blindPhoneNumber.js)  

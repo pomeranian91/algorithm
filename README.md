@@ -125,6 +125,7 @@
 | 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/최소직사각형.js) |  
 | 45 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/숫자_문자열과_영단어.js) |  
 | 46 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분 문자열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/크기가_작은_부분_문자열.js) |
+| 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |
 
 ---
 

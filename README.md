@@ -62,25 +62,10 @@
 | ---- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1    | [직사각형 별 그리기](https://school.programmers.co.kr/)                                         | [직사각형 별 그리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/직사각형_별_그리기.js)  |
 | 2    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 3    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 4    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 3    | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                  | [행렬의 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/행렬의_덧셈.js)               |
+| 4    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)           | [핸드폰 번호 가리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/핸드폰_번호_가리기.js) |
 | 5    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 6    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 7    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 8    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 9    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 10   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 11   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 12   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 13   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 14   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 15   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 16   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 17   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 18   | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
 
-3.[행렬의 덧셈](https://github.com/pomeranian91/algorithm/blob/main/level1/plusRowcols.js)  
-4.[핸드폰 번호 가리기](https://github.com/pomeranian91/algorithm/blob/main/level1/blindPhoneNumber.js)  
 5.[하샤드 수](https://github.com/pomeranian91/algorithm/blob/main/level1/hashyad.js)  
 6.[평균 구하기](https://github.com/pomeranian91/algorithm/blob/main/level1/average.js)  
 7.[콜라츠 추측](https://github.com/pomeranian91/algorithm/blob/level1/collatz.js)  
@@ -125,7 +110,8 @@
 | 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/최소직사각형.js) |  
 | 45 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/숫자_문자열과_영단어.js) |  
 | 46 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분 문자열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/크기가_작은_부분_문자열.js) |
-| 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |
+| 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |  
+| 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |
 
 ---
 

@@ -65,9 +65,9 @@
 | 3    | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                  | [행렬의 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/행렬의_덧셈.js)               |
 | 4    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)           | [핸드폰 번호 가리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/핸드폰_번호_가리기.js) |
 | 5    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
+| 6    | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                    | [하샤드 수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/하샤드_수.js)                   |
+| 6    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                  | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.js)               |
 
-5.[하샤드 수](https://github.com/pomeranian91/algorithm/blob/main/level1/hashyad.js)  
-6.[평균 구하기](https://github.com/pomeranian91/algorithm/blob/main/level1/average.js)  
 7.[콜라츠 추측](https://github.com/pomeranian91/algorithm/blob/level1/collatz.js)  
 8.[짝수와 홀수](https://github.com/pomeranian91/algorithm/blob/main/level1/evenOdd.js)  
 9.[제일 작은 수 제거하기](https://github.com/pomeranian91/algorithm/blob/main/level1/evenOdd.js)  
@@ -111,7 +111,8 @@
 | 45 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/숫자_문자열과_영단어.js) |  
 | 46 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분 문자열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/크기가_작은_부분_문자열.js) |
 | 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |  
-| 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |
+| 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |  
+| 48 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/삼총사.js) |
 
 ---
 

@@ -113,7 +113,8 @@
 | 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |  
 | 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |  
 | 49 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/삼총사.js) |  
-| 50 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js) |
+| 50 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js) |  
+| 51 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js) |
 
 ---
 

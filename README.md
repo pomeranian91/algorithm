@@ -58,21 +58,25 @@
 
 ### 📕Level 1
 
-| 번호 | 문제                                                                                            | 풀이                                                                                                                 |
-| ---- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1    | [직사각형 별 그리기](https://school.programmers.co.kr/)                                         | [직사각형 별 그리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/직사각형_별_그리기.js)  |
-| 2    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 3    | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                  | [행렬의 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/행렬의_덧셈.js)               |
-| 4    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)           | [핸드폰 번호 가리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/핸드폰_번호_가리기.js) |
-| 5    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/addArray.js) |
-| 6    | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                    | [하샤드 수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/하샤드_수.js)                   |
-| 7    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                  | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.js)               |
-| 8    | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                  | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js)               |
+| 번호 | 문제                                                                                            | 풀이                                                                                                                                     |
+| ---- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [직사각형 별 그리기](https://school.programmers.co.kr/)                                         | [직사각형 별 그리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/직사각형_별_그리기.js)                      |
+| 2    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/x만큼_간격이_있는_n개의_숫자.js) |
+| 3    | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                  | [행렬의 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/행렬의_덧셈.js)                                   |
+| 4    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)           | [핸드폰 번호 가리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/핸드폰_번호_가리기.js)                     |
+| 5    | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12943)   | [정수 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수_내림차순으로_배치하기.js)     |
 
-8.[짝수와 홀수](https://github.com/pomeranian91/algorithm/blob/main/level1/evenOdd.js)  
-9.[제일 작은 수 제거하기](https://github.com/pomeranian91/algorithm/blob/main/level1/evenOdd.js)  
-10.[수박수박수박수!?!](https://github.com/pomeranian91/algorithm/blob/main/level1/waterMelon.js)  
-11.[정수 내림차순으로 배치하기](https://github.com/pomeranian91/algorithm/blob/main/level1/numberArray.js)  
+| 6 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [하샤드 수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/하샤드_수.js) |
+| 7 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.js) |
+| 8 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [제일 작은 수 제거하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/제일_작은_수_제거하기.js) |
+| 9 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [짝수와 홀수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/짝수와_홀수.js) |
+| 10 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
+| 11 | [수박수박수박수!?!](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [수박수박수박수!?!.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/수박수박수박수.js) |
+
+| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
+| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
+| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
+
 12.[이상한 문자 만들기](https://github.com/pomeranian91/algorithm/blob/main/level1/weirdWord.js)  
 13.[약수의 합](https://github.com/pomeranian91/algorithm/blob/main/level1/measureSum.js)  
 14.[문자열을 정수로 바꾸기](https://github.com/pomeranian91/algorithm/blob/main/level1/numberChange.js)  

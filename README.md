@@ -72,14 +72,19 @@
 | 9 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [짝수와 홀수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/짝수와_홀수.js) |
 | 10 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
 | 11 | [수박수박수박수!?!](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [수박수박수박수!?!.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/수박수박수박수.js) |
+| 12 | [이상한 문자 만들기]() | [이상한 문자 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/이상한_문자_만들기.js) |  
+| 13 | [약수의 합]() | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js) |
+| 14 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 
-| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
-| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
-| 8 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
+| 15 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 16 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 17 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 18 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 19 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 20 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 21 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 22 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 
-12.[이상한 문자 만들기](https://github.com/pomeranian91/algorithm/blob/main/level1/weirdWord.js)  
-13.[약수의 합](https://github.com/pomeranian91/algorithm/blob/main/level1/measureSum.js)  
-14.[문자열을 정수로 바꾸기](https://github.com/pomeranian91/algorithm/blob/main/level1/numberChange.js)  
 15.[문자열 내림차순으로 배치하기](https://github.com/pomeranian91/algorithm/blob/main/level1/sortReverse.js)  
 16.[문자열 내 p와 y의 개수](https://github.com/pomeranian91/algorithm/blob/main/level1/countPnY.js)  
 17.[문자열 다루기 기본](https://github.com/pomeranian91/algorithm/blob/main/level1/strCare.js)  

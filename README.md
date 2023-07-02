@@ -76,7 +76,7 @@
 | 13 | [약수의 합]() | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js) |
 | 14 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 
-| 15 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 15 | [문자열 내림차순으로 배치하기]() | [문자열 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내림차순으로_배치하기.js) |
 | 16 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 | 17 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 | 18 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
@@ -85,7 +85,6 @@
 | 21 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 | 22 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
 
-15.[문자열 내림차순으로 배치하기](https://github.com/pomeranian91/algorithm/blob/main/level1/sortReverse.js)  
 16.[문자열 내 p와 y의 개수](https://github.com/pomeranian91/algorithm/blob/main/level1/countPnY.js)  
 17.[문자열 다루기 기본](https://github.com/pomeranian91/algorithm/blob/main/level1/strCare.js)  
 18.[두 정수 사이의 합](https://github.com/pomeranian91/algorithm/blob/main/level1/sumNumberBetween.js)  
@@ -123,7 +122,8 @@
 | 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |  
 | 49 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/삼총사.js) |  
 | 50 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js) |  
-| 51 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js) |
+| 51 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js) |  
+| 52 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js) |
 
 ---
 

@@ -65,33 +65,25 @@
 | 3    | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                  | [행렬의 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/행렬의_덧셈.js)                                   |
 | 4    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)           | [핸드폰 번호 가리기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/핸드폰_번호_가리기.js)                     |
 | 5    | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12943)   | [정수 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수_내림차순으로_배치하기.js)     |
-
-| 6 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [하샤드 수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/하샤드_수.js) |
-| 7 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.js) |
-| 8 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [제일 작은 수 제거하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/제일_작은_수_제거하기.js) |
-| 9 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [짝수와 홀수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/짝수와_홀수.js) |
-| 10 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js) |
-| 11 | [수박수박수박수!?!](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [수박수박수박수!?!.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/수박수박수박수.js) |
-| 12 | [이상한 문자 만들기]() | [이상한 문자 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/이상한_문자_만들기.js) |  
-| 13 | [약수의 합]() | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js) |
-| 14 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 6    | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                    | [하샤드 수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/하샤드_수.js)                                       |
+| 7    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/)                       | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.js)                                   |
+| 8    | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/)             | [제일 작은 수 제거하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/제일_작은_수_제거하기.js)               |
+| 9    | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                  | [짝수와 홀수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/짝수와_홀수.js)                                   |
+| 10   | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                  | [콜라츠 추측.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/콜라츠_추측.js)                                   |
+| 11   | [수박수박수박수!?!](https://school.programmers.co.kr/learn/courses/30/lessons/12943)            | [수박수박수박수!?!.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/수박수박수박수.js)                          |
+| 12   | [이상한 문자 만들기]()                                                                          | [이상한 문자 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/이상한_문자_만들기.js)                     |
+| 13   | [약수의 합]()                                                                                   | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js)                                       |
+| 14   | [문자열을 정수로 바꾸기]()                                                                      | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js)             |
 
 | 15 | [문자열 내림차순으로 배치하기]() | [문자열 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내림차순으로_배치하기.js) |
-| 16 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 17 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 18 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 19 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 20 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 21 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
-| 22 | [문자열을 정수로 바꾸기]() | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js) |
+| 16 | [문자열 내 p와 y의 개수]() | [문자열 내 p와 y의 개수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_p와_y의_개수.js) |
+| 17 | [문자열 다루기 기]() | [문자열 다루기 기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_다루기_기본.js) |
+| 18 | [두 정수 사이의 합]() | [두 정수 사이의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_정수_사이의_합.js) |
+| 19 | [가운데 글자 가져오기]() | [가운데 글자 가져오기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/가운데_글자_가져오기.js) |
+| 20 | [정수제곱근 판별]() | [정수제곱근 판별.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수제곱근_판별.js) |
+| 21 | [같은 숫자는 싫어]() | [같은 숫자는 싫어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/같은_숫자는_싫어.js) |
+| 22 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
 
-16.[문자열 내 p와 y의 개수](https://github.com/pomeranian91/algorithm/blob/main/level1/countPnY.js)  
-17.[문자열 다루기 기본](https://github.com/pomeranian91/algorithm/blob/main/level1/strCare.js)  
-18.[두 정수 사이의 합](https://github.com/pomeranian91/algorithm/blob/main/level1/sumNumberBetween.js)  
-19.[가운데 글자 가져오기](https://github.com/pomeranian91/algorithm/blob/main/level1/betweenStr.js)  
-20.[정수제곱근 판별](https://github.com/pomeranian91/algorithm/blob/main/level1/intSqrt.js)  
-21.[같은 숫자는 싫어](https://github.com/pomeranian91/algorithm/blob/main/level1/dontLikeSameNum.js)  
-22.[최대공약수와 최소공배수](https://github.com/pomeranian91/algorithm/blob/main/level1/GDCLCM.js)  
 23.[나누어 떨어지는 숫자 배열](https://github.com/pomeranian91/algorithm/blob/main/level1/divisor.js)  
 24.[자연수 뒤집어 배열로 만들기](https://github.com/pomeranian91/algorithm/blob/main/level1/resverInt.js)  
 25.[2016년](https://github.com/pomeranian91/algorithm/blob/main/level1/2016.js)  

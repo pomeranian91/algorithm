@@ -74,8 +74,8 @@
 | 12   | [이상한 문자 만들기]()                                                                          | [이상한 문자 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/이상한_문자_만들기.js)                     |
 | 13   | [약수의 합]()                                                                                   | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js)                                       |
 | 14   | [문자열을 정수로 바꾸기]()                                                                      | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js)             |
+| 15   | [문자열 내림차순으로 배치하기]()                                                                | [문자열 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내림차순으로_배치하기.js) |
 
-| 15 | [문자열 내림차순으로 배치하기]() | [문자열 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내림차순으로_배치하기.js) |
 | 16 | [문자열 내 p와 y의 개수]() | [문자열 내 p와 y의 개수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_p와_y의_개수.js) |
 | 17 | [문자열 다루기 기]() | [문자열 다루기 기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_다루기_기본.js) |
 | 18 | [두 정수 사이의 합]() | [두 정수 사이의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_정수_사이의_합.js) |

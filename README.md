@@ -83,15 +83,23 @@
 | 20 | [정수제곱근 판별]() | [정수제곱근 판별.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수제곱근_판별.js) |
 | 21 | [같은 숫자는 싫어]() | [같은 숫자는 싫어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/같은_숫자는_싫어.js) |
 | 22 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 23 | [자연수 뒤집어 배열로 만들기]() | [자연수 뒤집어 배열로 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/자연수_뒤집어_배열로_만들기.js) |
+| 24 | [2016년]() | [2016년.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/2016년.js) |
+| 25 | [문자열 내 마음대로 정렬하기]() | [문자열 내 마음대로 정렬하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_마음대로_정렬하기.js) |
+| 26 | [K번째수]() | [K번째수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/K번째수.js) |
+| 27 | [완주하지 못 한 선수]() | [완주하지 못 한 선수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/완주하지_못_한_선수.js) |
+| 28 | [모의고사+수정필요]() | [모의고사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/) |
+| 29 | [로또의 최고 순위와 최저 순위]() | [로또의 최고 순위와 최저 순위.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/로또의_최고_순위와_최저_순위.js) |
+| 30 | [나누어 떨어지는 숫자 배열]() | [나누어 떨어지는 숫자 배열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/나누어_떨어지는_숫자_배열.js) |
 
-23.[나누어 떨어지는 숫자 배열](https://github.com/pomeranian91/algorithm/blob/main/level1/divisor.js)  
-24.[자연수 뒤집어 배열로 만들기](https://github.com/pomeranian91/algorithm/blob/main/level1/resverInt.js)  
-25.[2016년](https://github.com/pomeranian91/algorithm/blob/main/level1/2016.js)  
-26.[문자열 내 마음대로 정렬하기](https://github.com/pomeranian91/algorithm/blob/main/level1/strangeStrings.js)  
-27.[K번째수](https://github.com/pomeranian91/algorithm/blob/main/level1/KNumber.js)  
-28.[완주하지 못 한 선수](https://github.com/pomeranian91/algorithm/blob/main/level1/completionMaraton.js)  
-29.[모의고사](https://github.com/pomeranian91/algorithm/blob/main/level1/completionMaraton.js.js)  
-30.[로또의 최고 순위와 최저 순위](https://github.com/pomeranian91/algorithm/blob/main/level1/lottoMaxMin.js)  
+| 31 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 32 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 33 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 34 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 35 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 36 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+| 37 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
+
 31.[내적](https://github.com/pomeranian91/algorithm/blob/main/level1/dotProduct.js)  
 32.[두 개 뽑아 더하기](https://github.com/pomeranian91/algorithm/blob/main/level1/selectTwo.js)  
 33.[다트게임](https://github.com/pomeranian91/algorithm/blob/main/level1/dartGame.js)  

@@ -91,7 +91,6 @@
 | 28 | [모의고사+수정필요]() | [모의고사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/) |
 | 29 | [로또의 최고 순위와 최저 순위]() | [로또의 최고 순위와 최저 순위.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/로또의_최고_순위와_최저_순위.js) |
 | 30 | [나누어 떨어지는 숫자 배열]() | [나누어 떨어지는 숫자 배열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/나누어_떨어지는_숫자_배열.js) |
-
 | 31 | [내적]() | [내적.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/내적.js) |
 | 32 | [두 개 뽑아 더하기]() | [두 개 뽑아 더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_개_뽑아_더하기.js) |
 | 33| [다트게임]() | [다트게임.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/다트게임.js) |
@@ -100,7 +99,6 @@
 | 36 | [부족한 금액 계산]() | [부족한 금액 계산.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/부족한_금액_계산.js) |
 | 37 | [실패율]() | [실패율.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/실패율.js) |
 | 38 | [없는*숫자*더하기]() | [없는*숫자*더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/없는_숫자_더하기.js) |
-
 | 39 | [특이한 정렬](https://school.programmers.co.kr/) | [특이한 정렬.js](https://github.com/pomeranian91/algorithm/blob/main/level0/특이한_정렬.js) |
 | 40 | [추억 점수](https://school.programmers.co.kr/) | [추억 점수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/추억_점수.js) |
 | 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
@@ -115,7 +113,8 @@
 | 50 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js) |  
 | 51 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js) |  
 | 52 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js) |
-| 53 | [등수 매기기](https://school.programmers.co.kr/) | [등수_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수 매기기.js) |
+| 53 | [등수 매기기](https://school.programmers.co.kr/) | [등수_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수 매기기.js) |  
+| 53 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [콜라\_문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js) |
 
 ---
 

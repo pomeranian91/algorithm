@@ -75,46 +75,45 @@
 | 13   | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)                    | [약수의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/약수의_합.js)                                       |
 | 14   | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)       | [문자열을 정수로 바꾸기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열을_정수로_바꾸기.js)             |
 | 15   | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내림차순으로_배치하기.js) |
-
-| 16 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [문자열 내 p와 y의 개수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_p와_y의_개수.js) |
-| 17 | [문자열 다루기 기]() | [문자열 다루기 기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_다루기_기본.js) |
-| 18 | [두 정수 사이의 합]() | [두 정수 사이의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_정수_사이의_합.js) |
-| 19 | [가운데 글자 가져오기]() | [가운데 글자 가져오기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/가운데_글자_가져오기.js) |
-| 20 | [정수제곱근 판별]() | [정수제곱근 판별.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수제곱근_판별.js) |
-| 21 | [같은 숫자는 싫어]() | [같은 숫자는 싫어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/같은_숫자는_싫어.js) |
-| 22 | [최대공약수와 최소공배수]() | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js) |
-| 23 | [자연수 뒤집어 배열로 만들기]() | [자연수 뒤집어 배열로 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/자연수_뒤집어_배열로_만들기.js) |
-| 24 | [2016년]() | [2016년.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/2016년.js) |
-| 25 | [문자열 내 마음대로 정렬하기]() | [문자열 내 마음대로 정렬하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_마음대로_정렬하기.js) |
-| 26 | [K번째수]() | [K번째수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/K번째수.js) |
-| 27 | [완주하지 못 한 선수]() | [완주하지 못 한 선수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/완주하지_못_한_선수.js) |
-| 28 | [모의고사+수정필요]() | [모의고사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/) |
-| 29 | [로또의 최고 순위와 최저 순위]() | [로또의 최고 순위와 최저 순위.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/로또의_최고_순위와_최저_순위.js) |
-| 30 | [나누어 떨어지는 숫자 배열]() | [나누어 떨어지는 숫자 배열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/나누어_떨어지는_숫자_배열.js) |
-| 31 | [내적]() | [내적.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/내적.js) |
-| 32 | [두 개 뽑아 더하기]() | [두 개 뽑아 더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_개_뽑아_더하기.js) |
-| 33| [다트게임]() | [다트게임.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/다트게임.js) |
-| 34 | [소수 만들기]() | [소수 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/소수_만들기.js) |
-| 35 | [체육복]() | [체육복.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/체육복.js) |
-| 36 | [부족한 금액 계산]() | [부족한 금액 계산.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/부족한_금액_계산.js) |
-| 37 | [실패율]() | [실패율.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/실패율.js) |
-| 38 | [없는*숫자*더하기]() | [없는*숫자*더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/없는_숫자_더하기.js) |
-| 39 | [특이한 정렬](https://school.programmers.co.kr/) | [특이한 정렬.js](https://github.com/pomeranian91/algorithm/blob/main/level0/특이한_정렬.js) |
-| 40 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [추억 점수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/추억_점수.js) |
-| 41 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js) |
-| 42 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양 더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/음양_더하기.js) |
-| 43 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/약수의_개수와_덧셈.js) |  
-| 44 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/최소직사각형.js) |  
-| 45 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/숫자_문자열과_영단어.js) |  
-| 46 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분 문자열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/크기가_작은_부분_문자열.js) |
-| 47 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js) |  
-| 48 | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js) |  
-| 49 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/삼총사.js) |  
-| 50 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js) |  
-| 51 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js) |  
-| 52 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js) |
-| 53 | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [등수_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수 매기기.js) |  
-| 53 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [콜라\_문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js) |
+| 16   | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)       | [문자열 내 p와 y의 개수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_p와_y의_개수.js)             |
+| 17   | [문자열 다루기 기]()                                                                            | [문자열 다루기 기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_다루기_기본.js)                       |
+| 18   | [두 정수 사이의 합]()                                                                           | [두 정수 사이의 합.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_정수_사이의_합.js)                       |
+| 19   | [가운데 글자 가져오기]()                                                                        | [가운데 글자 가져오기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/가운데_글자_가져오기.js)                 |
+| 20   | [정수제곱근 판별]()                                                                             | [정수제곱근 판별.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/정수제곱근_판별.js)                           |
+| 21   | [같은 숫자는 싫어]()                                                                            | [같은 숫자는 싫어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/같은_숫자는_싫어.js)                         |
+| 22   | [최대공약수와 최소공배수]()                                                                     | [최대공약수와 최소공배수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/최대공약수와_최소공배수.js)           |
+| 23   | [자연수 뒤집어 배열로 만들기]()                                                                 | [자연수 뒤집어 배열로 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/자연수_뒤집어_배열로_만들기.js)   |
+| 24   | [2016년]()                                                                                      | [2016년.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/2016년.js)                                             |
+| 25   | [문자열 내 마음대로 정렬하기]()                                                                 | [문자열 내 마음대로 정렬하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/문자열_내_마음대로_정렬하기.js)   |
+| 26   | [K번째수]()                                                                                     | [K번째수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/K번째수.js)                                           |
+| 27   | [완주하지 못 한 선수]()                                                                         | [완주하지 못 한 선수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/완주하지_못_한_선수.js)                   |
+| 28   | [모의고사+수정필요]()                                                                           | [모의고사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/)                                                    |
+| 29   | [로또의 최고 순위와 최저 순위]()                                                                | [로또의 최고 순위와 최저 순위.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/로또의_최고_순위와_최저_순위.js) |
+| 30   | [나누어 떨어지는 숫자 배열]()                                                                   | [나누어 떨어지는 숫자 배열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/나누어_떨어지는_숫자_배열.js)       |
+| 31   | [내적]()                                                                                        | [내적.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/내적.js)                                                 |
+| 32   | [두 개 뽑아 더하기]()                                                                           | [두 개 뽑아 더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/두_개_뽑아_더하기.js)                       |
+| 33   | [다트게임]()                                                                                    | [다트게임.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/다트게임.js)                                         |
+| 34   | [소수 만들기]()                                                                                 | [소수 만들기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/소수_만들기.js)                                   |
+| 35   | [체육복]()                                                                                      | [체육복.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/체육복.js)                                             |
+| 36   | [부족한 금액 계산]()                                                                            | [부족한 금액 계산.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/부족한_금액_계산.js)                         |
+| 37   | [실패율]()                                                                                      | [실패율.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/실패율.js)                                             |
+| 38   | [없는*숫자*더하기]()                                                                            | [없는*숫자*더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/없는_숫자_더하기.js)                         |
+| 39   | [특이한 정렬](https://school.programmers.co.kr/)                                                | [특이한 정렬.js](https://github.com/pomeranian91/algorithm/blob/main/level0/특이한_정렬.js)                                              |
+| 40   | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                   | [추억 점수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/추억_점수.js)                                        |
+| 41   | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)    | [나머지가 1이 되는 수 찾기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/나머지가_1이_되는_수_찾기.js)        |
+| 42   | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)                  | [음양 더하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/음양_더하기.js)                                    |
+| 43   | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)           | [약수의 개수와 덧셈.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/약수의_개수와_덧셈.js)                      |
+| 44   | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                 | [최소직사각형.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/최소직사각형.js)                                  |
+| 45   | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [숫자 문자열과 영단어.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/숫자_문자열과_영단어.js)                  |
+| 46   | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)     | [크기가 작은 부분 문자열.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/크기가_작은_부분_문자열.js)            |
+| 47   | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                 | [3진법 뒤집기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/3진법_뒤집기.js)                                  |
+| 48   | [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                | [[1차]비밀지도.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/[1차]비밀지도.js)                                |
+| 49   | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                      | [삼총사.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/삼총사.js)                                              |
+| 50   | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)            | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js)                          |
+| 51   | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)       | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js)                |
+| 52   | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                        | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js)                                              |
+| 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수 매기기.js)                                    |
+| 53   | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   | [콜라\_문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js)                                       |
 
 ---
 

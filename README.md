@@ -112,7 +112,7 @@
 | 50   | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)            | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js)                          |
 | 51   | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)       | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js)                |
 | 52   | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                        | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js)                                              |
-| 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수 매기기.js)                                    |
+| 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수\_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수_매기기.js)                                   |
 | 53   | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   | [콜라\_문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js)                                       |
 
 ---

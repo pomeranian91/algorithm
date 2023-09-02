@@ -112,8 +112,8 @@
 | 50   | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)            | [푸드 파이트 대회.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/푸드_파이트_대회.js)                          |
 | 51   | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)       | [가장 가까운 같은 글자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/가장_가까운_같은_글자.js)                |
 | 52   | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                        | [폰켓몬.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/폰켓몬.js)                                              |
-| 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수\_매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수_매기기.js)                                   |
-| 53   | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   | [콜라\_문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js)                                       |
+| 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수 매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수_매기기.js)                                    |
+| 53   | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   | [콜라 문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js)                                        |
 
 ---
 
@@ -127,3 +127,4 @@
 | 4    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)             | [올바른 괄호.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/올바른_괄호.js)                         |
 | 5    | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [짝지어 제거하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/짝지어_제거하기.js)                 |
 | 6    | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)            | [다음 큰 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/다음_큰_숫자.js)                       |
+| 7    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)            | [달리기 경주.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/달리기_경주.js)                         |

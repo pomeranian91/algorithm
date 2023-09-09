@@ -115,6 +115,7 @@
 | 53   | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)                 | [등수 매기기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/등수_매기기.js)                                    |
 | 53   | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   | [콜라 문제.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/콜라_문제.js)                                        |
 | 54   | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                    | [덧칠하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/덧칠하기.js)                                          |
+| 55   | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)                   | [공원 산책.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/공원_산책.js)                                        |
 
 ---
 

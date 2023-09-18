@@ -118,6 +118,7 @@
 | 55   | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)                   | [공원 산책.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/공원_산책.js)                                        |
 | 56   | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                   | [카드 뭉치.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/카드_뭉치.js)                                        |
 | 57   | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)   | [실패율.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/실패율.js)                                              |
+| 58   | [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)                    | [과일장수.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level/과일장수.js)                                          |
 
 ---
 

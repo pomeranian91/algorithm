@@ -1,6 +1,6 @@
 #
 
-## Javascript
+# Javascript
 
 ## 🎈algorithm(프로그래머스)
 
@@ -134,3 +134,14 @@
 | 5    | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [짝지어 제거하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/짝지어_제거하기.js)                 |
 | 6    | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)            | [다음 큰 숫자.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/다음_큰_숫자.js)                       |
 | 7    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)            | [달리기 경주.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level2/달리기_경주.js)                         |
+
+# JAVA
+
+## 🎈algorithm(프로그래머스)
+
+### 📕Level 1
+
+| 번호 | 문제                                                                      | 풀이                                                                                                     |
+| ---- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+|  |
+| 7    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.java) |

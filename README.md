@@ -141,7 +141,8 @@
 
 ### 📕Level 1
 
-| 번호 | 문제                                                                      | 풀이                                                                                                     |
-| ---- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-|  |
-| 7    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/) | [평균 구하기.js](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.java) |
+| 번호 | 문제                                                                                         | 풀이                                                                                                       |
+| ---- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+|      |
+| 7    | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/)                    | [평균 구하기.java](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/평균_구하기.java) |
+| 7    | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=java) | [짝수와 홀수.java](https://github.com/pomeranian91/algorithm/blob/main/progremers/level1/짝수와_홀수.java) |
